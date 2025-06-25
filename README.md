@@ -1,3 +1,12 @@
 ### Hi there 👋
 
-I am a network programmer and a software engineer, currently working on building awesome multiplayer video games. My work and interests are primarily in backend development, with experience in API design, web tools development and feature/system engineering. I am always eager to learn about online systems and their designs/architecture.
+I'm a software engineer passionate about building secure user experiences through code.
+
+---
+
+Areas of Interest: Authn/Authz, Identity Federation, Customer IAM, Backend Engineering, Distributed Systems
+
+Programming Languages: Python, Go, TypeScript, JavaScript, Lua, C++
+
+Technologies I've Used: Security (OAuth2.0, OpenID Connect, JWT, Kerberos, Fuzz Testing), Web (REST APIs, Web Frameworks (Django, FastAPI, React), Apache, Postman), Cloud (GCP (BigQuery, IAM, Workforce Identity Federation, Config Connector), AWS (Lambda, DynamoDB, S3, SQS)), CI/CD (GitOps, Jenkins), Containerization (Docker, Podman, Kubernetes), Infrastructure (Terraform).
+
